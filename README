@@ -1,0 +1,8 @@
+README
+
+stolen_cars_parser.R - parser from one of many websites about stolen cars
+collected_posts.csv - all posts about stolen cars without preprocessing (as is) ~9k
+processed_posts.csv - processes posts without garbage ~7k
+most_stolen_brands.csv - most stolen car brands during the whole life of the site
+steals_by_colour.png - Steals of cars by colour
+steals_by_year_of_production.png - Steals of cars by year of production
